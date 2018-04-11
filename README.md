@@ -1,2 +1,2 @@
-# Junglecuber.github.io
+http://Junglecuber.github.io
 personal blog
